@@ -1,4 +1,4 @@
-package com.battleship.battleship_game;
+package com.battleship.game;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
